@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anh Thi-Hoang Nguyen
+<h1 align="center"> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anh Thi-Hoang Nguyen </h1>
 ============================================================================================================================================
 
-Data Scientist with ML and DL skills
+<h2 align="center"> Data Scientist with ML and DL skills</h2>
 ------------------------------------
 
 I am a senior student at University of Information Technology - Ho Chi Minh City, majoring in Data Science. I have a solid background and practical knowledge in Data Processing, Machine Learning, and Deep Learning. During my studies, I had experience in scientific research in the field of Transportation and Natural Language Processing. My biggest strength is being able to easily adapt to new fields.
@@ -14,7 +14,7 @@ I am a senior student at University of Information Technology - Ho Chi Minh City
 
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" />
   </a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
