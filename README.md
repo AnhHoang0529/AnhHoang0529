@@ -1,8 +1,8 @@
-Hi ![👋](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anh Thi-Hoang Nguyen
-============================================================================================================================================
+<h1 align="center"> Hi!👋 My name is Anh Thi-Hoang Nguyen</h1>
 
-Data Scientist with ML and DL skills
-------------------------------------
+<h2 align="center">Data Scientist with ML and DL skills</h2>
+
+<p><img align="right" src="https://i.pinimg.com/564x/bc/44/ea/bc44ea64dc74ab9023c3b217d9fd466c.jpg" /></p>
 
 I am a senior student at University of Information Technology - Ho Chi Minh City, majoring in Data Science. I have a solid background and practical knowledge in Data Processing, Machine Learning, and Deep Learning. During my studies, I had experience in scientific research in the field of Transportation and Natural Language Processing. My biggest strength is being able to easily adapt to new fields.
 
@@ -10,7 +10,7 @@ I am a senior student at University of Information Technology - Ho Chi Minh City
 * ✉️  You can contact me at [hanhnt0529@gmail.com](mailto:hanhnt0529@gmail.com)
 * 🧠  I'm learning Data Science at UIT-VNUHCM, Vietnam.
 
-### Skills and Tools
+### Languages and Tools
 
 
 <p align="left">
