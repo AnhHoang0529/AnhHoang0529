@@ -1,6 +1,6 @@
 <h1 align="center"> Hi!👋 My name is Anh Thi-Hoang Nguyen</h1>
 
-<h2 align="center">Data Scientist with ML and DL skills</h2>
+<h2 align="center">Data Scientist/AI Engineer with ML and DL skills</h2>
 
 <p><img align="right" src="https://i.pinimg.com/564x/bc/44/ea/bc44ea64dc74ab9023c3b217d9fd466c.jpg" /></p>
 
